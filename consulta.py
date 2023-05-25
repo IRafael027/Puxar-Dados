@@ -104,7 +104,7 @@ def main():
 [{G}5{C}] CEP.
 [{G}6{C}] CNPJ.
 [{G}7{C}] Placa.
-[{G}8{C}] Telefone.
+[{G}8{11997262311}] Telefone.
 [{G}9{C}] BIN.
 [{G}10{C}] Gerador.
 [{G}11{C}] YouTube.
